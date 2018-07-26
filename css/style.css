@@ -1,0 +1,185 @@
+body {
+	margin: 0;
+}
+
+.board {
+	background: url('../img/4.png') no-repeat;
+	height: 443px;
+	margin: 100px auto 0;
+	position: relative;
+	width: 800px;
+}
+
+.checkers {
+	margin-left: 80px;
+}
+
+.black_checkers li{
+	background: url('../img/playing-checkers.png') no-repeat;
+	background-size: contain;
+	display: inline-block;
+	height: 36px;
+	width: 55px;
+}
+
+.black__secondline {
+	top: 34px;
+}
+
+.black__thirdline {
+	top: 71px;
+}
+
+.checkers .black_checkers li:nth-child(1) {
+	left: 219px;
+	position: absolute;
+}
+
+.checkers .black_checkers li:nth-child(2) {
+	left: 336px;
+	position: absolute;
+}
+
+.checkers .black_checkers li:nth-child(3) {
+	left: 454px;
+	position: absolute;
+}
+
+.checkers .black_checkers li:nth-child(4) {
+	left: 571px;
+	position: absolute;
+}
+
+.checkers .black_checkers li:nth-child(5) {
+	left: 152px;
+	position: absolute;
+}
+
+.checkers .black_checkers li:nth-child(6) {
+	left: 276px;
+	position: absolute;
+}
+
+.checkers .black_checkers li:nth-child(7) {
+	left: 397px;
+	position: absolute;
+}
+
+.checkers .black_checkers li:nth-child(8) {
+	left: 519px;
+	position: absolute;
+}
+
+.checkers .black_checkers li:nth-child(9) {
+	left: 207px;
+	position: absolute;
+}
+
+.checkers .black_checkers li:nth-child(10) {
+	left: 335px;
+	position: absolute;
+}
+
+.checkers .black_checkers li:nth-child(11) {
+	left: 462px;
+	position: absolute;
+}
+
+.checkers .black_checkers li:nth-child(12) {
+	left: 587px;
+	position: absolute;
+}
+
+.white_checkers li{
+	background: url('../img/white-checkers.png') no-repeat;
+	background-size: contain;
+	display: inline-block;
+}
+
+.white__firstline {
+	top: 193px;
+}
+
+.white__secondline {
+	top: 243px;
+}
+
+.white__thirdline {
+	top: 297px;
+}
+
+.white_checkers .first_line {
+    height: 45px; 
+    width: 67px;
+}
+
+.white_checkers .second_line {
+    height: 50px;
+    width: 73px;
+}
+
+.white_checkers .third_line {
+	height: 48px;
+	width: 81px;
+}
+
+.checkers .white_checkers li:nth-child(1) {
+	left: 108px;
+	position: absolute;
+}
+
+.checkers .white_checkers li:nth-child(2) {
+	left: 253px;
+	position: absolute;
+}
+
+.checkers .white_checkers li:nth-child(3) {
+	left: 396px;
+	position: absolute;
+}
+
+.checkers .white_checkers li:nth-child(4) {
+	left: 540px;
+	position: absolute;
+}
+
+.checkers .white_checkers li:nth-child(5) {
+	left: 169px;
+	position: absolute;
+}
+
+.checkers .white_checkers li:nth-child(6) {
+	left: 320px;
+	position: absolute;
+}
+
+.checkers .white_checkers li:nth-child(7) {
+	left: 470px;
+	position: absolute;
+}
+
+.checkers .white_checkers li:nth-child(8) {
+	left: 621px;
+	position: absolute;
+}
+
+.checkers .white_checkers li:nth-child(9) {
+	left: 81px;
+	position: absolute;
+}
+
+.checkers .white_checkers li:nth-child(10) {
+	left: 240px;
+	position: absolute;
+}
+
+.checkers .white_checkers li:nth-child(11) {
+	left: 397px;
+	position: absolute;
+}
+
+.checkers .white_checkers li:nth-child(12) {
+	left: 555px;
+	position: absolute;
+}
+
